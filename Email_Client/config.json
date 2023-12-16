@@ -1,0 +1,16 @@
+{
+   "extra" : {
+      "email_status" : {
+         "totalEmail" : 0
+      }
+   },
+   "general" : {
+      "POP3" : 3333,
+      "SMTP" : 2222,
+      "autoload" : 0,
+      "fullname" : "",
+      "mailsever" : "127.0.0.1",
+      "passwork" : "",
+      "username" : ""
+   }
+}
